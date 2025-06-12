@@ -17,7 +17,6 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import javax.imageio.ImageIO;
 import java.util.ArrayList;
-import apitest.weather;
 
 /**
  *
